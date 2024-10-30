@@ -1,0 +1,348 @@
+Question;Response;START_DATE;END_DATE
+How much natural gas did my Amsterdam, Netherlands site use during the previous two quarters?;01/04/2024, 30/09/2024;01/04/2024;30/09/2024
+What are my top 5 accounts in terms of waste generated?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you show a month-over-month comparison of energy consumption for all sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much natural gas did my Los Angeles, CA site use in the previous year?;01/11/2022, 31/10/2023;01/11/2022;31/10/2023
+How much natural gas was consumed by my Seattle, WA site in the last month?;30/09/2024, 30/10/2024;30/09/2024;30/10/2024
+What are the five sites with the lowest water consumption?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which are the five accounts with the highest electricity cost per unit?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which sites reported a decrease in energy consumption year-over-year?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my top 5 divisions in terms of waste reduction?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you identify the sites with a significant increase in energy consumption compared to the previous year?;01/10/2023, 30/10/2024;01/10/2023;30/10/2024
+How much natural gas did my Madrid, Spain site consume during the last two months?;29/08/2024, 30/10/2024;29/08/2024;30/10/2024
+Which sites have managed to reduce their energy consumption compared to the same period last year?;01/10/2023, 30/09/2024;01/10/2023;30/09/2024
+What division has the highest overall energy cost?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the natural gas usage for my Sydney, Australia site during the last six months?;30/04/2024, 30/10/2024;30/04/2024;30/10/2024
+Can you identify locations that have improved their energy efficiency in the past year?;01/11/2023, 30/10/2024;01/11/2023;30/10/2024
+Which sites experienced a year-over-year decrease in waste generation?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the natural gas usage for my Rome, Italy site during the last three months?;22/07/2024, 30/10/2024;22/07/2024;30/10/2024
+Can you list the five locations with the highest heating cost per unit?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much natural gas did my Toronto, Canada site use during the last billing period?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you identify the sites that have increased their energy efficiency in the past month?;30/09/2024, 30/10/2024;30/09/2024;30/10/2024
+Can you list the five divisions with the lowest electricity cost per unit?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which sites have the highest potential for reducing tCO2e emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the natural gas usage for my London, UK site during the last quarter?;01/07/2024, 30/09/2024;01/07/2024;30/09/2024
+Can you list the five locations with the highest natural gas cost per unit?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which divisions contribute the most to our overall tCO2e emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which sites have managed to reduce their water consumption compared to the same period last year?;01/11/2022, 31/10/2023;01/11/2022;31/10/2023
+Which locations have the lowest tCO2e emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my top 5 accounts in terms of water consumption reduction?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which sites experienced a decrease in consumption compared to the previous month?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much natural gas did my Warsaw, Poland site use during the last two weeks?;"Here is the answer:
+
+16/10/2024, 30/10/2024";16/10/2024;30/10/2024
+How much natural gas did my New York, NY site consume last week?;23/10/2024, 29/10/2024;23/10/2024;29/10/2024
+What are my best-performing sites in terms of tCO2e emissions reduction?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the top 10 accounts with the largest carbon footprint?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you list my top 6 sites in terms of renewable energy usage?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you show a year-over-year comparison of energy consumption for all sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which division has the highest tCO2e emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which locations have the highest tCO2e emissions per square meter?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the five sites with the highest cooling cost per unit?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the seven sites with the highest water cost per unit?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the main sources of greenhouse gas (GHG) emissions in my data?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the main sources of greenhouse gas (GHG) emissions at each of my company sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What is the breakdown of emissions by sector (e.g., transportation, industry, agriculture)?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How have my emissions changed over time?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How have my emissions changed annually?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How have my emissions changed quarterly?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How have my emissions changed monthly?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my emissions today?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my top divisions with highest emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What is my top site with lowest emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How do my emissions vary by fuel type (e.g., natural gas, coal, oil, renewable energy)?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What percentage of my emissions come from direct sources (Scope 1)?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much do indirect sources (Scope 2 and 3) contribute to my emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How my carbon footprint decreased in the last five years?;19/10/2019, 30/10/2024;19/10/2019;30/10/2024
+What are my emissions from manufacturing?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my emissions from office activity?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Quantify my emissions for my Southeast Asia sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my emissions for my sites in Europe?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Show me emissions data for my North American sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my emissions at my site in North Dakota?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Breakdown my emissions data by aircraft, fleet, and route.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much natural gas did my site using during the previous two quarters?;01/04/2024, 30/09/2024;01/04/2024;30/09/2024
+How much water did my site using during Q4?;01/10/2023, 31/12/2023;01/10/2023;31/12/2023
+How much electricity did my site use the last 6 months?;30/04/2024, 30/10/2024;30/04/2024;30/10/2024
+What are my top 3 divisions in terms of electric power usage?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my top 5 divisions in terms of emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What is my top account in terms of natural gas usage?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you show a MoM comparison of natural gas consumption for my Southeast Asia sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you show a month-over-month comparison of electric usage for my largest site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much natural gas did my site use in the previous year?;01/11/2022, 31/10/2023;01/11/2022;31/10/2023
+How my electric power did my Los Angeles, CA site use in the last 12 months?;30/10/2023, 30/10/2024;30/10/2023;30/10/2024
+How much waste water did my Los Angeles, CA site produce in the past year?;01/11/2022, 30/10/2023;01/11/2022;30/10/2023
+How much natural gas was consumed by my site in the last month?;30/09/2024, 30/10/2024;30/09/2024;30/10/2024
+How much natural gas did my site use in the last 30 days?;01/11/2024, 30/10/2024;01/11/2024;30/10/2024
+How much electricity was used by my Seatle, WA site in the last four weeks? ;18/10/2024, 30/10/2024;18/10/2024;30/10/2024
+What are the five sites with the highest water consumption?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which of my Kentucky sites has the highest natural gas consumption?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which of my Canadian sites use the least amount of electricity?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What is my total cost for electric power in USD for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is my total cost for electric power in USD for 202#?;01/01/2020, 31/12/2024;01/01/2020;31/12/2024
+What is my total cost for electric power in United States dollars for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is my total cost for electric power in United States dollars for 202#?;01/01/2020, 31/12/2029;01/01/2020;31/12/2029
+What is my total cost for electric power in euros for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is my total cost for electric power in euros for 202#?;"Based on the question, I would extract the time period as follows:
+
+01/01/2020, 31/12/2029";01/01/2020;31/12/2029
+What is my total cost for electric power (kWh) in USD for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is my total cost for electric power (kWh) in USD for 202#?;01/01/2020, 31/12/2024;01/01/2020;31/12/2024
+What is my total cost for electric power (kWh) in United States dollars for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is my total cost for electric power (kWh) in United States dollars for 202#?;01/01/2020, 31/12/2029;01/01/2020;31/12/2029
+What is my total cost for electric power (kWh) in euros for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is my total cost for electric power (kWh) in euros for 202#?;01/01/2020, 31/12/2029;01/01/2020;31/12/2029
+What is my total cost for electric power (kilowatt hours) in USD for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is my total cost for electric power (kilowatt hours) in USD for 202#?;01/01/2020, 31/12/2029;01/01/2020;31/12/2029
+What is my total cost for electric power (kilowatt hours) in United States dollars for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is my total cost for electric power (kilowatt hours) in United States dollars for 202#?;01/01/2020, 31/12/2024;01/01/2020;31/12/2024
+What is my total cost for electric power (kilowatt hours) in euros for 201#?;"Here is the answer:
+
+01/01/2010, 31/12/2019";01/01/2010;31/12/2019
+What is my total cost for electric power (kilowatt hours) in euros for 202#?;01/01/2020, 31/12/2029;01/01/2020;31/12/2029
+What are the emissions for Los Angeles for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What are the emissions for San Francisco for 202#?;01/01/2020, 31/12/2024;01/01/2020;31/12/2024
+What are the emissions for London in metric tons of CO2 for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What are the emissions for Paris in metric tons of CO2 for 202#?;2020-01-01, 2029-12-31;01/01/2020;31/12/2029
+What is the average emissions for Beijing for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is the average emissions for Sydney for 202#?;01/01/2020, 31/12/2029;01/01/2020;31/12/2029
+What is the minimum emissions for Rio de Janeiro for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is the minimum emissions for Mumbai for 202#?;01/01/2020, 31/12/2029;01/01/2020;31/12/2029
+What is the maximum emissions for Shanghai for 201#?;01/01/2010, 31/12/2019;01/01/2010;31/12/2019
+What is the maximum emissions for Dubai for 202#?;01/01/2020, 31/12/2029;01/01/2020;31/12/2029
+What were my scope 2 emissions in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+Can you tell me what my scope 1 emissions were in 2022?;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+What are the scope 3 emissions at that site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much were the scope 1 emissions in 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+What are my scope 1 emissions in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+Tell me my scope 2 emissions.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my scope 3 emissions in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+What were all my emissions in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+Can you show me my scope 1 emissions in 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+What was my carbon footprint in 2022?;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+How much did my carbon footprint decrease by?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+By how many tons has my carbon footprint been reduced?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much progress have I made in reducing my carbon footprint?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the extent of my scope 1 emissions in the year 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+What were my total emissions in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+How much were my carbon emissions in 2018?;01/01/2018, 31/12/2018;01/01/2018;31/12/2018
+How much carbon did I emit in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+What did I emit in 2022?;"Here is the answer:
+
+01/01/2022, 31/12/2022";01/01/2022;31/12/2022
+How much waste did that site generate in 2016?;01/01/2016, 31/12/2016;01/01/2016;31/12/2016
+What was my total water cost in 2017?;01/01/2017, 31/12/2017;01/01/2017;31/12/2017
+How expensive was my natural gas for New York in 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+How much was emitted at the Baltimore site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were my carbon emissions at Nevada sites in 2018?;01/01/2018, 31/12/2018;01/01/2018;31/12/2018
+What was my total carbon footprint across all sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was my total usage across all sites in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+Did I use more water in 2020 or 2021?;01/01/2020, 31/12/2020, 01/01/2021, 31/12/2021;01/01/2020 31/12/2020;01/01/2021 31/12/2021
+Was my electric usage across all sites greater this year or last year?;01/01/2024, 30/10/2024, 01/01/2023, 30/10/2023;01/01/2024 30/10/2024;01/01/2023 30/10/2023
+Tell my total carbon footprint for 2019.;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+What were my total carbon emissions in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+How much carbon did we put out in 2017?;01/01/2017, 31/12/2017;01/01/2017;31/12/2017
+Show me my scope 3 emissions for 2018.;01/01/2018, 31/12/2018;01/01/2018;31/12/2018
+What were my scope 1 emissions in New York?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much were scope 2 emissions at the Chicago site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much did we emit in 2018?;01/01/2018, 31/12/2018;01/01/2018;31/12/2018
+Tell me the amount of carbon I emitted in 2020.;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+Show me my carbon footprint for 2021.;01/01/2021, 31/12/2021;01/01/2021;31/12/2021
+Calculate my total carbon emissions for 2019.;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+Calculate scope 2 emissions for the Los Angeles site.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were my emissions from eletric power?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my natural gas emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much were the waste water emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Tell me what my water emissions were in 2022.;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+Could you tell me the emissions from natural gas in 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+What were my total waste water emissions in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+What portion of my total emissions came from electric power?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much of my emissions came from natural gas?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Break down my usage by commodity.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you tell me my total cost of each commodity?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much was my total waste water usage?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Tell me how much water was used in 2021.;01/01/2021, 31/12/2021;01/01/2021;31/12/2021
+What was my cost and usage for waste water at my Louisville location?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much electric power did I use in 2022?;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+Show me my usage for 2022 broken out by commodity.;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+What was my total natural gas cost and usage at St. Louis sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much waste water did I use in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+What were my total costs for each commodity in 2021?;01/01/2021, 31/12/2021;01/01/2021;31/12/2021
+What was my total usage in 2021 broken out by service?;01/01/2021, 31/12/2021;01/01/2021;31/12/2021
+What are my electric power emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much emissions came from waste water?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Show me my total emissions from each commodity.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were my electric power based emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What percentage of total emissions came from natural gas?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were my emissions from waste water in 2017?;01/01/2017, 31/12/2017;01/01/2017;31/12/2017
+How much of scope 1 emissions stem from natural gas?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my scope 2 emissions from water this year?;01/01/2024, 30/10/2024;01/01/2024;30/10/2024
+What portion of total scope 1 emissions were from waste water?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were my water based emissions in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+What are my emissions from natural gas?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the emissions from waste water?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What is the extent of my carbon footprint related to electric power consumption?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much electricity-related emissions am I responsible for?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Calculate my emissions from electric power.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Tell my total emissions that came from electric.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the emissions resulting from natural gas?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What part of my carbon footprint is from waste water?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much is my water related emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my water emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my emissions from electric power?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my natural gas cost in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+How much water did I use in 2022?;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+What is my electric power consumption this year?;01/01/2024, 30/10/2024;01/01/2024;30/10/2024
+What is my total electric power cost in 2023?;"Here is the answer:
+
+01/01/2023, 31/12/2023";01/01/2023;31/12/2023
+How much natural gas did I use in 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+What was my waste water usage in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+Tell me what my natural gas consumption was in 2018?;01/01/2018, 31/12/2018;01/01/2018;31/12/2018
+How much was my total water cost in 2021?;01/01/2021, 31/12/2021;01/01/2021;31/12/2021
+Give me my total electric power consumption for this year?;01/01/2024, 30/10/2024;01/01/2024;30/10/2024
+Total waste water usage in 2019.;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+What part of my emissions are from electric power?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What section of the emissions are from natural gas?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What fraction of my emissions come from water?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much of my total emissions are from natural gas?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What of my emissions are from water?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What about my electric power emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were my emissions from natural gas sources?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+About how much of my emissions came from waste water?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you break down my usage by commodity?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Break down total cost by commodity.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Show me my total cost broken down by commodity?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much water did I use in 2021 broken down by site?;01/01/2021, 31/12/2021;01/01/2021;31/12/2021
+How high was my cost at each site in 2022?;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+For the same period, what are my scope 3 emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What about scope 3?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my emissions for Andover broken down monthly in kwh?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What about yearly and pollutant emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Tell me about my cost and consumption in USD and mwh for electric power?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were my scope 2 emissions for Baltimore by quarter?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Tell me what my natural gas cost was in Boston for 2021.;01/01/2021, 31/12/2021;01/01/2021;31/12/2021
+What was my waste water cost in Louisville for 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+Tell me my electric power usage and spend for 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+What about water consumption for the same year?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How about the scope 3 emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What about my carbon footprint that year?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How about the environmental impacts?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much greenhouse gases did I emit in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+What about my carbon emissions the same period?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which 10 accounts are the lowest by natural gas cost?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What division emits the most scope 2 emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which site has the lowest water cost this year?;01/01/2024, 30/10/2024;01/01/2024;30/10/2024
+Which of my accounts has the highest electric consumption?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which locations have the highest tCO2e emissions per square meter ?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were my total emissions this year compared to last?;01/01/2024, 30/10/2024, 01/01/2023, 31/12/2023;01/01/2024 30/10/2024;01/01/2023 31/12/2023
+Where did I decrease my emissions in the previous year?;01/10/2022, 30/09/2023;01/10/2022;30/09/2023
+List the sites that have increased their waste water cost in the previous year.;01/10/2023, 30/09/2024;01/10/2023;30/09/2024
+Which accounts increased their energy intensity this year compared to last?;"Based on the question, I understand that ""this year"" refers to the current year, and ""last year"" means the previous year. Since the current date is 2024-10-30, I will subtract 1 year from the current date to get the start and end dates for last year.
+
+Here is the answer:
+
+01/01/2023, 31/12/2023";01/01/2023;31/12/2023
+What sites decreased their total energy consumption in the last year?;30/10/2023, 30/10/2024;30/10/2023;30/10/2024
+Which locations decreased their total energy consumption this year compared to last?;30/12/2022, 30/10/2023;30/12/2022;30/10/2023
+List the sites that increased their water usage over the last year.;01/11/2022, 30/10/2024;01/11/2022;30/10/2024
+Rank the site groups by scope 2 emissions.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my top 3 accounts by occupancy %?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the division with the highest electric power cost?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which account had the highest sales per square foot in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+Which 5 accounts had the highest energy spend in 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+Which divisions had the least wastewater usage?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which site groups were the best performing for EP usage in 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+Display the sites in the Commercial division with the highest electric power usage.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were the total sales in USD for Commercial sites in 2022?;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+How much is the sales volume for commercial sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you tell me the energy effiency for California accounts?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the trash cost per ton for each division in 2022?;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+Show me the energy intensity for every Kentucky account.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you provide the total square footage for the Seattle location?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How much was the total waste generated at the Atlanta sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were the total work hours for accounts in the New York region?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What is the percentage of renewable energy used across all accounts?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you provide the energy efficiency data for Texas accounts?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were the total energy costs for all sites in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+How many of the occupied rooms came from the Boston site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the energy intensity for each Ohio location?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you provide the total square footage for the San Francisco location?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the production output for my Northwest site in 2022?;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+How much solid waste was generated at the Chicago sites?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the amount of recycled materials at our Orlando locations this year?;01/01/2024, 30/10/2024;01/01/2024;30/10/2024
+What are my top 5 site groups in terms of waste generated?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the five site groups with the highest overall energy cost?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which site groups have the lowest tCO2e emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which site groups have the highest tCO2e emissions per square meter?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my top 3 site groups in terms of electric power usage?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Tell me my top 10 site groups by carbon emissions.;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What is my top site group by natural gas consumption?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which site groups consumed the most electric power in 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+Which site group led in waste water consumption?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the bottom ten site groups for diesel usage;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are my total emissions and respective usage volumes for my India division in 2019;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+What is the total cost for 2020 electric power in kWh?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+What is the monthly natural gas usage for the Amadora site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the total emissions for 2021?;01/01/2021, 31/12/2021;01/01/2021;31/12/2021
+What are the industrial division’s emissions in tons for 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+What are the corporate emissions for the last 6 months?;30/04/2024, 30/10/2024;30/04/2024;30/10/2024
+What was the electric power usage for 2019?;01/01/2019, 31/12/2019;01/01/2019;31/12/2019
+What are the total waste water costs for the Amadora site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What are the emissions for the APAC site group for Q4?;01/10/2023, 31/12/2023;01/10/2023;31/12/2023
+Which sites in the Industrial division produced the most emissions from 2018 to 2022?;01/01/2018, 31/12/2022;01/01/2018;31/12/2022
+Which 5 sites produced the most emissions last year?;29/10/2022, 30/10/2023;29/10/2022;30/10/2023
+Which sites in the Industrial division produced the most emissions the current year??;01/01/2024, 30/10/2024;01/01/2024;30/10/2024
+Which 5 sites in the Industrial division produced the least wastewater in 2020?;01/01/2020, 31/12/2020;01/01/2020;31/12/2020
+What were the France electric power costs for June 1st 2020 through July 31 2020?;01/06/2020, 31/07/2020;01/06/2020;31/07/2020
+and what about my emission;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What about emissions?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What about my emissions for the same site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What about my cost for natural gas?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What about the emissions for all my sites in december?;01/12/2023, 31/12/2023;01/12/2023;31/12/2023
+and what about my emissions for the same year?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+My electricity consumption in Grenoble in 2022;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+Mi consumo de electricidad en Grenoble en 2022;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+How about gas usage?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What about my scope 2 for Louisville ky?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which are the 5 sites with the highest electricity cost?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What's the total square footage at the Cincinnati site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were the monthly full-time employees for all sites in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+What is the current energy use goal for Fargo;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How many employees work at sites within the Silicones site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+How many accidents are associated with the Boulder site?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Show the number of guest nights for Louisville site this month;01/10/2024, 30/10/2024;01/10/2024;30/10/2024
+Which sites are largest in terms of square footage?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Which sites have the fewest number of meeting rooms?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Show the number of guest nights for Louisville site this month?;01/10/2024, 30/10/2024;01/10/2024;30/10/2024
+What were the May 2023 usages for the accounts at the Chennai site?;01/05/2023, 31/05/2023;01/05/2023;31/05/2023
+what is the difference between the total electric power usage for all sites in 2021 and 2022?;01/01/2021, 31/12/2021, 01/01/2022, 31/12/2022;01/01/2021 31/12/2021;01/01/2022 31/12/2022
+what is the difference between the total electric power usage for all sites in 2021 and 2022;01/01/2021, 31/12/2022;01/01/2021;31/12/2022
+What is the number of female employees in Athens;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+what is the climate zone for aloft bali seminyak;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+what is the close date for anthens tx;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What was the total electric power usage across all sites in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+Which sites used the most electric power in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+What was the total production for the Asnieres site last year?;01/11/2022, 31/10/2023;01/11/2022;31/10/2023
+What are the total scope 2 emissions for all sites within the last quarter?;"Here is the answer:
+
+01/07/2024, 30/10/2024";01/07/2024;30/10/2024
+What is the monthly natural gas cost for the Commercial division so far this year?;01/01/2024, 30/10/2024;01/01/2024;30/10/2024
+What was the average scope 2 emissions across all sites last year?;01/11/2022, 31/10/2023;01/11/2022;31/10/2023
+What is the average energy use intensity across all sites so far this year?;01/01/2024, 30/10/2024;01/01/2024;30/10/2024
+Show the total emissions data for all sites so far this year;01/01/2024, 30/10/2024;01/01/2024;30/10/2024
+What are some trends in my electric power usage data?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+What were the total Scope 1 emissions for the Chennai site from Jan 2023 through the end of September 2023?;01/01/2023, 30/09/2023;01/01/2023;30/09/2023
+How much did we spend on electric power for all sites in 2022?;01/01/2022, 31/12/2022;01/01/2022;31/12/2022
+Muéstrame el consumo de gas natural en 2021 de la división commercial;01/01/2021, 31/12/2021;01/01/2021;31/12/2021
+What is the total number of full time employees across all sites for last year?;01/10/2022, 30/09/2023;01/10/2022;30/09/2023
+What was my waste usage for nov 2022 for all sites?;01/11/2022, 30/11/2022;01/11/2022;30/11/2022
+How can I find estimated annual consumption for Miami, Florida location;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Qual minha loja com maior consumo de energía?;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+what were the total GHG emissions of the company in 2023?;01/01/2023, 31/12/2023;01/01/2023;31/12/2023
+What are my total Electric Power Emissions for All of my sites for March 23;23/03/2024, 23/03/2024;23/03/2024;23/03/2024
+Total industrial divisions emissions for March 2023;01/03/2023, 31/03/2023;01/03/2023;31/03/2023
+What was my total emissions across the entire business from 2021-2023?;01/01/2021, 31/12/2023;01/01/2021;31/12/2023
+Show me all utility cost and volume data for Ridge Munster;NO_TIME_RANGE, NO_TIME_RANGE;NO_TIME_RANGE;NO_TIME_RANGE
+Can you tell me what % of Austrian Power is hedged for 2024?;2024-01-01, 2024-12-31;01/01/2024;31/12/2024

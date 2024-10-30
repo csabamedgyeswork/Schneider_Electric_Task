@@ -1,0 +1,332 @@
+;QUESTION
+0;How much natural gas did my Amsterdam, Netherlands site use during the previous two quarters?
+1;What are my top 5 accounts in terms of waste generated?
+2;Can you show a month-over-month comparison of energy consumption for all sites?
+3;How much natural gas did my Los Angeles, CA site use in the previous year?
+4;How much natural gas was consumed by my Seattle, WA site in the last month?
+5;What are the five sites with the lowest water consumption?
+6;Which are the five accounts with the highest electricity cost per unit?
+7;Which sites reported a decrease in energy consumption year-over-year?
+8;What are my top 5 divisions in terms of waste reduction?
+9;Can you identify the sites with a significant increase in energy consumption compared to the previous year?
+10;How much natural gas did my Madrid, Spain site consume during the last two months?
+11;Which sites have managed to reduce their energy consumption compared to the same period last year?
+12;What division has the highest overall energy cost?
+13;What was the natural gas usage for my Sydney, Australia site during the last six months?
+14;Can you identify locations that have improved their energy efficiency in the past year?
+15;Which sites experienced a year-over-year decrease in waste generation?
+16;What was the natural gas usage for my Rome, Italy site during the last three months?
+17;Can you list the five locations with the highest heating cost per unit?
+18;How much natural gas did my Toronto, Canada site use during the last billing period?
+19;Can you identify the sites that have increased their energy efficiency in the past month?
+20;Can you list the five divisions with the lowest electricity cost per unit?
+21;Which sites have the highest potential for reducing tCO2e emissions?
+22;What was the natural gas usage for my London, UK site during the last quarter?
+23;Can you list the five locations with the highest natural gas cost per unit?
+24;Which divisions contribute the most to our overall tCO2e emissions?
+25;Which sites have managed to reduce their water consumption compared to the same period last year?
+26;Which locations have the lowest tCO2e emissions?
+27;What are my top 5 accounts in terms of water consumption reduction?
+28;Which sites experienced a decrease in consumption compared to the previous month?
+29;How much natural gas did my Warsaw, Poland site use during the last two weeks?
+30;How much natural gas did my New York, NY site consume last week?
+31;What are my best-performing sites in terms of tCO2e emissions reduction?
+32;What are the top 10 accounts with the largest carbon footprint?
+33;Can you list my top 6 sites in terms of renewable energy usage?
+34;Can you show a year-over-year comparison of energy consumption for all sites?
+35;Which division has the highest tCO2e emissions?
+36;Which locations have the highest tCO2e emissions per square meter?
+37;What are the five sites with the highest cooling cost per unit?
+38;What are the seven sites with the highest water cost per unit?
+39;What are the main sources of greenhouse gas (GHG) emissions in my data?
+40;What are the main sources of greenhouse gas (GHG) emissions at each of my company sites?
+41;What is the breakdown of emissions by sector (e.g., transportation, industry, agriculture)?
+42;How have my emissions changed over time?
+43;How have my emissions changed annually?
+44;How have my emissions changed quarterly?
+45;How have my emissions changed monthly?
+46;What are my emissions today?
+47;What are my emissions?
+48;What are my top divisions with highest emissions?
+49;What is my top site with lowest emissions?
+50;How do my emissions vary by fuel type (e.g., natural gas, coal, oil, renewable energy)?
+51;What percentage of my emissions come from direct sources (Scope 1)?
+52;How much do indirect sources (Scope 2 and 3) contribute to my emissions?
+53;How my carbon footprint decreased in the last five years?
+54;What are my emissions from manufacturing?
+55;What are my emissions from office activity?
+56;Quantify my emissions for my Southeast Asia sites?
+57;What are my emissions for my sites in Europe?
+58;Show me emissions data for my North American sites?
+59;What are my emissions at my site in North Dakota?
+60;Breakdown my emissions data by aircraft, fleet, and route.
+61;How much natural gas did my site using during the previous two quarters?
+62;How much water did my site using during Q4?
+63;How much electricity did my site use the last 6 months?
+64;What are my top 3 divisions in terms of electric power usage?
+65;What are my top 5 divisions in terms of emissions?
+66;What is my top account in terms of natural gas usage?
+67;Can you show a MoM comparison of natural gas consumption for my Southeast Asia sites?
+68;Can you show a month-over-month comparison of electric usage for my largest site?
+69;How much natural gas did my site use in the previous year?
+70;How my electric power did my Los Angeles, CA site use in the last 12 months?
+71;How much waste water did my Los Angeles, CA site produce in the past year?
+72;How much natural gas was consumed by my site in the last month?
+73;How much natural gas did my site use in the last 30 days?
+74;How much electricity was used by my Seatle, WA site in the last four weeks? 
+75;What are the five sites with the highest water consumption?
+76;Which of my Kentucky sites has the highest natural gas consumption?
+77;Which of my Canadian sites use the least amount of electricity?
+78;What is my total cost for electric power in USD for 201#?
+79;What is my total cost for electric power in USD for 202#?
+80;What is my total cost for electric power in United States dollars for 201#?
+81;What is my total cost for electric power in United States dollars for 202#?
+82;What is my total cost for electric power in euros for 201#?
+83;What is my total cost for electric power in euros for 202#?
+84;What is my total cost for electric power (kWh) in USD for 201#?
+85;What is my total cost for electric power (kWh) in USD for 202#?
+86;What is my total cost for electric power (kWh) in United States dollars for 201#?
+87;What is my total cost for electric power (kWh) in United States dollars for 202#?
+88;What is my total cost for electric power (kWh) in euros for 201#?
+89;What is my total cost for electric power (kWh) in euros for 202#?
+90;What is my total cost for electric power (kilowatt hours) in USD for 201#?
+91;What is my total cost for electric power (kilowatt hours) in USD for 202#?
+92;What is my total cost for electric power (kilowatt hours) in United States dollars for 201#?
+93;What is my total cost for electric power (kilowatt hours) in United States dollars for 202#?
+94;What is my total cost for electric power (kilowatt hours) in euros for 201#?
+95;What is my total cost for electric power (kilowatt hours) in euros for 202#?
+96;What are the emissions for Los Angeles for 201#?
+97;What are the emissions for San Francisco for 202#?
+98;What are the emissions for London in metric tons of CO2 for 201#?
+99;What are the emissions for Paris in metric tons of CO2 for 202#?
+100;What is the average emissions for Beijing for 201#?
+101;What is the average emissions for Sydney for 202#?
+102;What is the minimum emissions for Rio de Janeiro for 201#?
+103;What is the minimum emissions for Mumbai for 202#?
+104;What is the maximum emissions for Shanghai for 201#?
+105;What is the maximum emissions for Dubai for 202#?
+106;What were my scope 2 emissions in 2020?
+107;Can you tell me what my scope 1 emissions were in 2022?
+108;What are the scope 3 emissions at that site?
+109;How much were the scope 1 emissions in 2019?
+110;What are my scope 1 emissions in 2023?
+111;Tell me my scope 2 emissions.
+112;What are my scope 3 emissions in 2023?
+113;What were all my emissions in 2020?
+114;Can you show me my scope 1 emissions in 2019?
+115;What was my carbon footprint in 2022?
+116;How much did my carbon footprint decrease by?
+117;By how many tons has my carbon footprint been reduced?
+118;How much progress have I made in reducing my carbon footprint?
+119;What was the extent of my scope 1 emissions in the year 2019?
+120;What were my total emissions in 2023?
+121;How much were my carbon emissions in 2018?
+122;How much carbon did I emit in 2020?
+123;What did I emit in 2022?
+124;How much waste did that site generate in 2016?
+125;What was my total water cost in 2017?
+126;How expensive was my natural gas for New York in 2019?
+127;How much was emitted at the Baltimore site?
+128;What were my carbon emissions at Nevada sites in 2018?
+129;What was my total carbon footprint across all sites?
+130;What was my total usage across all sites in 2023?
+131;Did I use more water in 2020 or 2021?
+132;Was my electric usage across all sites greater this year or last year?
+133;Tell my total carbon footprint for 2019.
+134;What were my total carbon emissions in 2023?
+135;How much carbon did we put out in 2017?
+136;Show me my scope 3 emissions for 2018.
+137;What were my scope 1 emissions in New York?
+138;How much were scope 2 emissions at the Chicago site?
+139;How much did we emit in 2018?
+140;Tell me the amount of carbon I emitted in 2020.
+141;Show me my carbon footprint for 2021.
+142;Calculate my total carbon emissions for 2019.
+143;Calculate scope 2 emissions for the Los Angeles site.
+144;What were my emissions from eletric power?
+145;What are my natural gas emissions?
+146;How much were the waste water emissions?
+147;Tell me what my water emissions were in 2022.
+148;Could you tell me the emissions from natural gas in 2019?
+149;What were my total waste water emissions in 2020?
+150;What portion of my total emissions came from electric power?
+151;How much of my emissions came from natural gas?
+152;Break down my usage by commodity.
+153;Can you tell me my total cost of each commodity?
+154;How much was my total waste water usage?
+155;Tell me how much water was used in 2021.
+156;What was my cost and usage for waste water at my Louisville location?
+157;How much electric power did I use in 2022?
+158;Show me my usage for 2022 broken out by commodity.
+159;What was my total natural gas cost and usage at St. Louis sites?
+160;How much waste water did I use in 2020?
+161;What were my total costs for each commodity in 2021?
+162;What was my total usage in 2021 broken out by service?
+163;What are my electric power emissions?
+164;How much emissions came from waste water?
+165;Show me my total emissions from each commodity.
+166;What were my electric power based emissions?
+167;What percentage of total emissions came from natural gas?
+168;What were my emissions from waste water in 2017?
+169;How much of scope 1 emissions stem from natural gas?
+170;What are my scope 2 emissions from water this year?
+171;What portion of total scope 1 emissions were from waste water?
+172;What were my water based emissions in 2020?
+173;What are my emissions from natural gas?
+174;What are the emissions from waste water?
+175;What is the extent of my carbon footprint related to electric power consumption?
+176;How much electricity-related emissions am I responsible for?
+177;Calculate my emissions from electric power.
+178;Tell my total emissions that came from electric.
+179;What are the emissions resulting from natural gas?
+180;What part of my carbon footprint is from waste water?
+181;How much is my water related emissions?
+182;What are my water emissions?
+183;What are my emissions from electric power?
+184;What are my natural gas cost in 2023?
+185;How much water did I use in 2022?
+186;What is my electric power consumption this year?
+187;What is my total electric power cost in 2023?
+188;How much natural gas did I use in 2019?
+189;What was my waste water usage in 2020?
+190;Tell me what my natural gas consumption was in 2018?
+191;How much was my total water cost in 2021?
+192;Give me my total electric power consumption for this year?
+193;Total waste water usage in 2019.
+194;What part of my emissions are from electric power?
+195;What section of the emissions are from natural gas?
+196;What fraction of my emissions come from water?
+197;How much of my total emissions are from natural gas?
+198;What of my emissions are from water?
+199;What about my electric power emissions?
+200;What were my emissions from natural gas sources?
+201;About how much of my emissions came from waste water?
+202;Can you break down my usage by commodity?
+203;Break down total cost by commodity.
+204;Show me my total cost broken down by commodity?
+205;How much water did I use in 2021 broken down by site?
+206;How high was my cost at each site in 2022?
+207;For the same period, what are my scope 3 emissions?
+208;What about scope 3?
+209;What are my emissions for Andover broken down monthly in kwh?
+210;What about yearly and pollutant emissions?
+211;Tell me about my cost and consumption in USD and mwh for electric power?
+212;What were my scope 2 emissions for Baltimore by quarter?
+213;Tell me what my natural gas cost was in Boston for 2021.
+214;What was my waste water cost in Louisville for 2019?
+215;Tell me my electric power usage and spend for 2020?
+216;What about water consumption for the same year?
+217;How about the scope 3 emissions?
+218;What about my carbon footprint that year?
+219;How about the environmental impacts?
+220;How much greenhouse gases did I emit in 2020?
+221;What about my carbon emissions the same period?
+222;Which 10 accounts are the lowest by natural gas cost?
+223;What division emits the most scope 2 emissions?
+224;Which site has the lowest water cost this year?
+225;Which of my accounts has the highest electric consumption?
+226;Which locations have the highest tCO2e emissions per square meter ?
+227;What were my total emissions this year compared to last?
+228;Where did I decrease my emissions in the previous year?
+229;List the sites that have increased their waste water cost in the previous year.
+230;Which accounts increased their energy intensity this year compared to last?
+231;What sites decreased their total energy consumption in the last year?
+232;Which locations decreased their total energy consumption this year compared to last?
+233;List the sites that increased their water usage over the last year.
+234;Rank the site groups by scope 2 emissions.
+235;What are my top 3 accounts by occupancy %?
+236;What was the division with the highest electric power cost?
+237;Which account had the highest sales per square foot in 2020?
+238;Which 5 accounts had the highest energy spend in 2019?
+239;Which divisions had the least wastewater usage?
+240;Which site groups were the best performing for EP usage in 2019?
+241;Display the sites in the Commercial division with the highest electric power usage.
+242;What were the total sales in USD for Commercial sites in 2022?
+243;How much is the sales volume for commercial sites?
+244;Can you tell me the energy effiency for California accounts?
+245;What was the trash cost per ton for each division in 2022?
+246;Show me the energy intensity for every Kentucky account.
+247;Can you provide the total square footage for the Seattle location?
+248;How much was the total waste generated at the Atlanta sites?
+249;What were the total work hours for accounts in the New York region?
+250;What is the percentage of renewable energy used across all accounts?
+251;Can you provide the energy efficiency data for Texas accounts?
+252;What were the total energy costs for all sites in 2023?
+253;How many of the occupied rooms came from the Boston site?
+254;What was the energy intensity for each Ohio location?
+255;Can you provide the total square footage for the San Francisco location?
+256;What was the production output for my Northwest site in 2022?
+257;How much solid waste was generated at the Chicago sites?
+258;What was the amount of recycled materials at our Orlando locations this year?
+259;What are my top 5 site groups in terms of waste generated?
+260;What are the five site groups with the highest overall energy cost?
+261;Which site groups have the lowest tCO2e emissions?
+262;Which site groups have the highest tCO2e emissions per square meter?
+263;What are my top 3 site groups in terms of electric power usage?
+264;Tell me my top 10 site groups by carbon emissions.
+265;What is my top site group by natural gas consumption?
+266;Which site groups consumed the most electric power in 2019?
+267;Which site group led in waste water consumption?
+268;What are the bottom ten site groups for diesel usage
+269;What are my total emissions and respective usage volumes for my India division in 2019
+270;What is the total cost for 2020 electric power in kWh?
+271;What is the monthly natural gas usage for the Amadora site?
+272;What are the total emissions for 2021?
+273;What are the industrial division’s emissions in tons for 2020?
+274;What are the corporate emissions for the last 6 months?
+275;What was the electric power usage for 2019?
+276;What are the total waste water costs for the Amadora site?
+277;What are the emissions for the APAC site group for Q4?
+278;Which sites in the Industrial division produced the most emissions from 2018 to 2022?
+279;Which 5 sites produced the most emissions last year?
+280;Which sites in the Industrial division produced the most emissions the current year??
+281;Which 5 sites in the Industrial division produced the least wastewater in 2020?
+282;What were the France electric power costs for June 1st 2020 through July 31 2020?
+283;and what about my emission
+284;What about emissions?
+285;What about my emissions for the same site?
+286;What about my cost for natural gas?
+287;What about the emissions for all my sites in december?
+288;and what about my emissions for the same year?
+289;My electricity consumption in Grenoble in 2022
+290;Mi consumo de electricidad en Grenoble en 2022
+291;How about gas usage?
+292;What about my scope 2 for Louisville ky?
+293;Which are the 5 sites with the highest electricity cost?
+294;What's the total square footage at the Cincinnati site?
+295;What were the monthly full-time employees for all sites in 2023?
+296;What is the current energy use goal for Fargo
+297;How many employees work at sites within the Silicones site?
+298;How many accidents are associated with the Boulder site?
+299;Show the number of guest nights for Louisville site this month
+300;Which sites are largest in terms of square footage?
+301;Which sites have the fewest number of meeting rooms?
+302;Show the number of guest nights for Louisville site this month?
+303;What were the May 2023 usages for the accounts at the Chennai site?
+304;what is the difference between the total electric power usage for all sites in 2021 and 2022?
+305;what is the difference between the total electric power usage for all sites in 2021 and 2022
+306;What is the number of female employees in Athens
+307;what is the climate zone for aloft bali seminyak
+308;what is the close date for anthens tx
+309;What was the total electric power usage across all sites in 2023?
+310;Which sites used the most electric power in 2023?
+311;What was the total production for the Asnieres site last year?
+312;What are the total scope 2 emissions for all sites within the last quarter?
+313;What is the monthly natural gas cost for the Commercial division so far this year?
+314;What was the average scope 2 emissions across all sites last year?
+315;What is the average energy use intensity across all sites so far this year?
+316;Show the total emissions data for all sites so far this year
+317;What are some trends in my electric power usage data?
+318;What were the total Scope 1 emissions for the Chennai site from Jan 2023 through the end of September 2023?
+319;How much did we spend on electric power for all sites in 2022?
+320;Muéstrame el consumo de gas natural en 2021 de la división commercial
+321;What is the total number of full time employees across all sites for last year?
+322;What was my waste usage for nov 2022 for all sites?
+323;How can I find estimated annual consumption for Miami, Florida location
+324;Qual minha loja com maior consumo de energía?
+325;what were the total GHG emissions of the company in 2023?
+326;What are my total Electric Power Emissions for All of my sites for March 23
+327;Total industrial divisions emissions for March 2023
+328;What was my total emissions across the entire business from 2021-2023?
+329;Show me all utility cost and volume data for Ridge Munster
+330;Can you tell me what % of Austrian Power is hedged for 2024?
