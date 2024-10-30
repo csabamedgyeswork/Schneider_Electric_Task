@@ -18,7 +18,7 @@ software engineers than I am.
 # %% Create a client and get current date
 
 client = Groq(
-    api_key='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'
+    api_key='OOPS THIS SHOULD NOT BE PUBLIC'
     )
 current_date = datetime.datetime.strptime("2024-10-30", "%Y-%m-%d")
 
